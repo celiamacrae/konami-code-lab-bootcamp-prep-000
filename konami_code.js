@@ -11,7 +11,7 @@ const codes = [
   "a"
 ];
 
-function onKeyDownHandler(e) {
+function oneKeyDownHandler(e) {
   const key = e.key;
  
   if (key === codes[index]) {
